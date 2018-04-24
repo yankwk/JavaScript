@@ -3,8 +3,11 @@ Exercice :
 Le HTML de base du burger est founi dans le repository.
 
 Modifier le texte du titre h1 avec "Le meilleur burger"
+
 Modifier le HTML du deuxième h2, pour mettre "Il est délicieux, essayez-le!"
+
 Récupérer l'objet "Pain du haut", et modifier sa largeur (en %)
+
 Récupérer la deuxième boulette, et lui rajouter la classe css "pickle"
 Récupérer la troisième boulette et augmenter sa largeur à 90px
 Récupérer la tomate, et modifier sa couleur de fond en orange
