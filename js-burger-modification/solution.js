@@ -86,7 +86,8 @@ a.setAttribute('target', '_blank');
 
 
 // 11. DUPLIQUER l'assiette avec une fonction faite pour ça, et mettre la nouvelle assiette tout en bas (en dessous de la 1ere)
+var burger = document.querySelector('.burger');
 var plate = burger.children[burger.children.length - 1];
 var newPlate = plate.cloneNode(true);
-document.querySelector('.burger').appendChild(newPlate);
 
+burger.appendChild(newPlate);
